@@ -8,8 +8,8 @@ from time import sleep
 
 
 cl = Client()
-u = "reddit___memes__"
-p = "Jeremic06"
+u = ""
+p = ""
 cl.login(u, p)
 
 
